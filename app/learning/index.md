@@ -59,6 +59,10 @@ and then run:
 yo webapp
 ```
 
+Those two links might help for windows 10 users who are installing npm and who are seeing errors related to bower for windows 10 users; I apologise beforehand if I have made any typing mistake or wrong shortcode.
+- stackoverflow.com/questions/27360710/bower-is-not-recognised-as-an-internal-or-external-command
+- stackoverflow.com/questions/21732447/bower-command-not-found-windows/24196273#24196273
+
 Each project created with yo will also pull in relevant Grunt tasks which the community feels is needed or useful for your workflow.
 
 The webapp generator is considered the simplest possible start for a web app. We also provide some framework generators which can be used to scaffold out a project and later views, models, controllers and so on.
